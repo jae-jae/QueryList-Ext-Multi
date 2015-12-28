@@ -9,8 +9,8 @@
         }
     ],
     "require": {
-            "jaeger/querylist-ext-aquery":"dev-master",
-            "jaeger/curlmulti":"dev-master"
+            "jaeger/querylist-ext-aquery":"^1.0",
+            "jaeger/curlmulti":"^1.0"
         },
     "autoload" : {
         "psr-4" : {
